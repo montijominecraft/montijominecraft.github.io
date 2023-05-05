@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Minecraft;
+    src: url("./fonts/MinecraftRegular-Bmg3.otf");
+}
+body {
+    color: white;
+    font-family: Minecraft;
+    background: url('./images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rules {
+    margin: 50px;
+    text-align: center; 
+}
+
+#desc {
+    margin-left: 25%;
+    width: 45%;
+}
